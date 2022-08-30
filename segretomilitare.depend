@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1556723358 source:c:\users\domenichino\desktop\segretomilitare\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+
